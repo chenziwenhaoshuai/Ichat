@@ -1,0 +1,14 @@
+Host: api.weibo.com
+Connection: keep-alive
+Content-Length: 137
+Accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Origin: https://api.weibo.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://api.weibo.com/chat/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _s_tentry=-; Apache=2520094125155.3257.1610351547922; SINAGLOBAL=2520094125155.3257.1610351547922; ULV=1610351547964:1:1:1:2520094125155.3257.1610351547922:; SUB=_2A25y-HO-DeRhGeBP7lIU8C_Kzz2IHXVRjOJ2rDV8PUNbmtAKLW7_kW9NRUGBFYSufrcxhcec_PbbdOYCPflNe1wi; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WhHZeMiYAO9PHRnx7CYI0935JpX5KzhUgL.FoqpSK5feh2cSh22dJLoIceLxK.L1K.L1hnLxK-LB-BL1K5LxKqL1KqL1hMLxKBLB.zL122LxK-LBKBLBK.LxK-LBK-LB.BLxK-LBK-LB.BLxK-LB-BLBKqLxKBLBo.LBK5LxKBLB.2L1hqLxK-L1K5L1KMt; ALF=1641887566; SSOLoginState=1610351572; JSESSIONID=F93FCFF79388CDD0F3D20868CF4CE2DA
